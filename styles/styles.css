@@ -349,6 +349,7 @@ body {
 }
 
 .slogan-title {
+	display: block;
 	width: 620px;
 	min-height: 72px;
 	font-size: 30px;
@@ -363,6 +364,7 @@ body {
 }
 
 .slogan-reasons {
+	display: block;
 	font-size: 22px;
 	line-height: 26px;
 	font-weight: 400;
@@ -393,7 +395,7 @@ body {
 	padding: 0;
 }
 
-.advantages-item1 {
+.advantages-item-1 {
 	display: flex;
 	width: 1199px;
 	min-height: 384px;
@@ -404,7 +406,7 @@ body {
 	flex-direction: row-reverse;
 }
 
-.advantages-one {
+.advantages-preview {
 	display: flex;
 	flex-direction: column;
 	width: 400px;
@@ -447,7 +449,7 @@ body {
 	margin-top: 30px;
 }
 
-.advanrages-list2 {
+.advanrages-item-2 {
 	display: flex;
 	flex-wrap: wrap;
 	width: 1200px;
@@ -471,11 +473,11 @@ body {
 	text-align: center;
 }
 
-.drop-down-bg-1 {
+.bg-white {
 	background-color: #ffffff;
 }
 
-.drop-down-bg-2 {
+.bg-sky {
 	background-color: rgba(131, 179, 211, 0.2);
 }
 
